@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Project-specific
+/ffmpeg/          # 忽略ffmpeg文件夹
+cookie.txt        # 绝不上传你的个人cookie！
+*.part            # 忽略下载过程中的临时文件
+/download_logs/   # (如果未来有日志目录)
+
+# Sensitive info
+*.env
