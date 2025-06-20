@@ -78,7 +78,7 @@
 
 2.  **运行脚本**
     ```bash
-    python your_script_name.py
+    python acgdb.py
     ```
     脚本将开始递归遍历和下载。如果遇到Cloudflare的强力质询，它将会暂停并指导您进行后续操作。
 
