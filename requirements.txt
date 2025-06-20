@@ -1,0 +1,7 @@
+# Core libraries
+cloudscraper
+requests
+brotli
+
+# Optional but recommended for a better experience
+# (cloudscraper might implicitly use some of these, but it's good to be explicit)
