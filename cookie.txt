@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.acgdb.de	TRUE	/	FALSE	1780464102	_clck	q23w1c%7C2%7Cfwg%7C0%7C1979
+.acgdb.de	TRUE	/	FALSE	1749024594	_clsk	1sb52t7%7C1748938194561%7C14%7C1%7Co.clarity.ms%2Fcollect
+.acgdb.de	TRUE	/	TRUE	1780477987	cf_clearance	peU_pU5vLBe9_heAlaFkmAzIZCG5c8Qi93iEv5NPrvQ-1748941983-1.2.1.1-7nx7kWIpPEFZ9MOWYEGHf8V77IonC0QAcYoXAafEvfMf6PoNHgoPR21LqX232pAff5GYuhQvgzbOO6MLCR_u78j4de0dw2UxrH1fHObDW5ICYY8CBCRBIOFhpXu_tXE96EjI6XzDv8zCLN4KFrW5Z4dpv1jWxbr3UT46u9dTuLoA4LQRHXlLIiDL68hof6PetCmphMNryaCIfANt52vNh37D7XnPWxDXcr.zQlQnQtnVpPGXJaIJFU5jzXJraPffvNM2xALh_57Uu2aBOKO7ii25yBXYOYB_0NZfnzqTNAAiEVqwQpE1LoLicf_9R.MKZv1qrv.W4FsxE7gVCFLvzklUFSW92CDjsH.lFmSAJW212UcSoS8rzCbtikR43k9l
