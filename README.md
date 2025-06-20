@@ -1,6 +1,6 @@
 # 高级Alist网盘同步下载器 (支持Cloudflare防护)
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/) [![项目状态](https://img.shields.io/badge/状态-积极维护-green.svg)](https://github.com/xiang-ys/alist-downloader-pro) [![许可证](https://img.shields.io/badge/许可证-MIT-brightgreen.svg)](./LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/) [![项目状态](https://img.shields.io/badge/状态-可能维护-green.svg)](https://github.com/xiang-ys/alist-downloader-pro) [![许可证](https://img.shields.io/badge/许可证-MIT-brightgreen.svg)](./LICENSE)
 
 这是一款专为攻克受 **Cloudflare** 高强度安全策略保护的 **Alist** 网站而设计的自动化同步与下载工具。它能够递归地遍历远程目录，并将完整的目录结构和文件稳定、高效地下载到您的本地硬盘。
 
